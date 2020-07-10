@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá! 😁
 
-<!--
-**codder404/codder404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Fernando dos Santos (AO). Comecei a trabalhar com Desenvolvimento Front-end em 2017, atualmente trabalho como Front-end Developer na [Paga3](https://paga3.com).
 
-Here are some ideas to get you started:
+Nos tempos livres eu gosto de ver filmes (🎞️) e séries (📺), ler livros, artigos (📚), ouvir música (🎵) e filosofar sobre a vida, o universo e tudo mais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Se quiser me acompanhar?
+
+<ul>
+  <li>
+    <a href="https://fernandodossantos.netlify.app/" target="_blank" title="Meu Blog">Blog</a>
+  </li>
+  <li>
+    <a href="https://twitter.com/codder404" target="_blank" title="Meu Twitter">Twitter</a>
+  </li>
+  <li>
+    <a href="https://www.linkedin.com/in/fernando-dos-santos-6712aa145/" target="_blank" title="Meu Linkedin">LinkedIn</a>
+  </li>
+</ul>
