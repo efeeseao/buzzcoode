@@ -1,6 +1,6 @@
 ### Olá! 😁
 
-Meu nome é Fernando dos Santos de Angola (AO). Comecei a trabalhar com Desenvolvimento Front-end em 2017, atualmente trabalho como Front-end Developer na [Paga3](https://paga3.com).
+Meu nome é Fernando dos Santos de Angola (AO). Comecei a trabalhar com Desenvolvimento Front-end em 2017, me apaixonando por projetos Open Source.
 
 Nos tempos livres eu gosto de ver filmes (🎞️) e séries (📺), ler livros, artigos (📚), ouvir música (🎵) e filosofar sobre a vida, o universo e tudo mais.
 
