@@ -6,14 +6,6 @@ Nos tempos livres eu gosto de ver filmes (🎞️) e séries (📺), ler livros,
 
 Se quiser me acompanhar?
 
-<ul>
-  <li>
-    <a href="https://fernandodossantos.netlify.app/" target="_blank" title="Meu Blog">Blog</a>
-  </li>
-  <li>
-    <a href="https://twitter.com/codder404" target="_blank" title="Meu Twitter">Twitter</a>
-  </li>
-  <li>
-    <a href="https://www.linkedin.com/in/fernando-dos-santos-6712aa145/" target="_blank" title="Meu Linkedin">LinkedIn</a>
-  </li>
-</ul>
+[![Blog Badge](https://img.shields.io/badge/Blog-fernandosantos.com-black)](https://fernandodossantos.netlify.app/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/codder404)](https://twitter.com/codder404)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-dos-santos-6712aa145/)](https://www.linkedin.com/in/fernando-dos-santos-6712aa145/)
