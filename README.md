@@ -4,7 +4,12 @@ Meu nome é Fernando dos Santos de Angola (AO). Comecei a trabalhar com Desenvol
 
 Nos tempos livres eu gosto de ver filmes (🎞️) e séries (📺), ler livros, artigos (📚), ouvir música (🎵) e filosofar sobre a vida, o universo e tudo mais.
 
-Se quiser me acompanhar?
+## Skills
+
+<img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/JavaScript -ffc742" /> <img src="https://img.shields.io/badge/React -41b883" /> <img src="https://img.shields.io/badge/Gatsby -663399" />
+</br>
+
+## Se quiser me acompanhar?
 
 [![Blog Badge](https://img.shields.io/badge/Blog-fernandosantos.com-black)](https://fernandodossantos.netlify.app/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/codder404)](https://twitter.com/codder404)
