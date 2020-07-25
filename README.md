@@ -1,4 +1,4 @@
-### Olá! 😁
+### Olá Nerd! 😁
 
 Meu nome é Fernando dos Santos de Angola (AO). Comecei a trabalhar com Desenvolvimento Front-end em 2017, me apaixonando por projetos Open Source.
 
