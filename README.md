@@ -1,5 +1,14 @@
 ### Olá Nerd! 😁
 
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codder404&layout=compact" /></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=codder404&theme=tokyonight" /></td>
+  </tr>   
+</table>
+</center>
+
 Meu nome é Fernando dos Santos de Angola (AO). Comecei a trabalhar com Desenvolvimento Front-end em 2017, me apaixonando por projetos Open Source.
 
 Nos tempos livres eu gosto de ver filmes (🎞️) e séries (📺), ler livros, artigos (📚), ouvir música (🎵) e filosofar sobre a vida, o universo e tudo mais.
