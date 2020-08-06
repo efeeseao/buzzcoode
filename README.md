@@ -1,5 +1,3 @@
-### Olá Nerd! 😁
-
 <center>
 <table>
   <tr>
@@ -9,17 +7,22 @@
 </table>
 </center>
 
-Meu nome é Fernando dos Santos de Angola (AO). Comecei a trabalhar com Desenvolvimento Front-end em 2017, me apaixonando por projetos Open Source.
+# Fernando dos Santos.md
 
-Nos tempos livres eu gosto de ver filmes (🎞️) e séries (📺), ler livros, artigos (📚), ouvir música (🎵) e filosofar sobre a vida, o universo e tudo mais.
+## Olá pessoal 👋
+Sou apaixonado por resolver problemas utilizando a programação.
+Sou um FullStack Developer :computer:
 
-## Skills
-
-<img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/JavaScript -ffc742" /> <img src="https://img.shields.io/badge/React -41b883" /> <img src="https://img.shields.io/badge/Gatsby -663399" />
-</br>
-
-## Se quiser me acompanhar?
-
-[![Blog Badge](https://img.shields.io/badge/Blog-fernandosantos.com-black)](https://fernandodossantos.netlify.app/)
+ :rocket:  &nbsp; Estou trabalhando na **Paga3**
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando Reactjs e Vuejs
+ <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout, Flexbox e JavaScript
+ <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
+ <br/> 💬  &nbsp; Sobre mim: Gosto de tecnologia, games, seriados na Netflix, tocar guitarra, ouvir música e ler.
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Fernando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandosantosc/)](https://www.linkedin.com/in/fernandosantosc/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-nando4803@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nando4803@gmail.com)](mailto:nando4803@gmail.com)
+| 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/codder404)](https://twitter.com/codder404)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-dos-santos-6712aa145/)](https://www.linkedin.com/in/fernando-dos-santos-6712aa145/)
+| 
+[![Blog Badge](https://img.shields.io/badge/Blog-fernandosantos.com-black)](https://fernandodossantos.netlify.app/)
+
