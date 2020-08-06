@@ -22,7 +22,7 @@ Sou um FullStack Developer :computer:
 | 
 [![Gmail Badge](https://img.shields.io/badge/-nando4803@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nando4803@gmail.com)](mailto:nando4803@gmail.com)
 | 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/codder404)](https://twitter.com/codder404)
+[![Twitter Badge](https://img.shields.io/badge/-Fernando-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/codder404)](https://twitter.com/codder404)
 | 
-[![Blog Badge](https://img.shields.io/badge/Blog-fernandosantos.com-black)](https://fernandodossantos.netlify.app/)
+[![Blog Badge](https://img.shields.io/badge/Blog-fernandosantos.com-blue)](https://fernandodossantos.netlify.app/)
 
