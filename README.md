@@ -9,16 +9,15 @@
 
 # Fernando dos Santos.md
 
-## Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação.
-Sou um FullStack Developer :computer:
+## Hi There! 👋
+I am passionate about solving problems using programming. I'm a Front-end Developer :computer:
 
- :rocket:  &nbsp; Estou trabalhando na **Paga3**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando Reactjs e Vuejs
- <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout, Flexbox e JavaScript
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
- <br/> 💬  &nbsp; Sobre mim: Gosto de tecnologia, games, seriados na Netflix, tocar guitarra, ouvir música e ler.
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Fernando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandosantosc/)](https://www.linkedin.com/in/fernandosantosc/) 
+ :rocket:  &nbsp; I'm working on **Paga3**
+ <br/> :purple_heart: &nbsp; Seeking to collaborate with Front-end projects using React.js
+ <br/> :blush: &nbsp; I'm learning Next.js
+ <br/> :computer: &nbsp; I work with: ReactJS, Node.js, React Native, Gatsby.js, Next.js & Typescript
+ <br/> 💬  &nbsp; About: I like, games, Netflix series, Play Guitar, listen music and read books.
+ <br/> :email: &nbsp; Get in touch: [![Linkedin Badge](https://img.shields.io/badge/-Fernando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandosantosc/)](https://www.linkedin.com/in/fernandosantosc/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-nando4803@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nando4803@gmail.com)](mailto:nando4803@gmail.com)
 | 
