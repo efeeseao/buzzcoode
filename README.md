@@ -10,7 +10,7 @@
 # Fernando dos Santos.md
 
 ## Hi There! 👋
-I am passionate about solving problems using programming. I'm a Front-end Developer :computer:
+   I'm a Frond-End Developer with a passion for finding simple solutions to interesting problems. :computer:
 
  :rocket:  &nbsp; I'm working on **Paga3**
  <br/> :purple_heart: &nbsp; Seeking to collaborate with Front-end projects using React.js
