@@ -12,7 +12,7 @@
 ## Hi There! 👋
    I'm a Frond-End Developer with a passion for finding simple solutions to interesting problems. :computer:
 
- :rocket:  &nbsp; I'm working on **Paga3**
+ :rocket:  &nbsp; I'm working as **Freelancer**
  <br/> :purple_heart: &nbsp; Seeking to collaborate with Front-end projects using React.js
  <br/> :blush: &nbsp; I'm learning Next.js
  <br/> :computer: &nbsp; I work with: ReactJS, Node.js, React Native, Gatsby.js, Next.js & Typescript
