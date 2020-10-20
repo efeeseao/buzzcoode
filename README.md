@@ -10,7 +10,7 @@
 # Fernando dos Santos.md
 
 ## Hi There! 👋
-   I'm a Frond-End Developer with a passion for finding simple solutions to interesting problems. :computer:
+   I'm a Software Developer with a passion for finding simple solutions to interesting problems. :computer:
 
  :rocket:  &nbsp; I'm working as Front-End at **Mochi**
  <br/> :purple_heart: &nbsp; Seeking to collaborate with Front-end projects using React.js
