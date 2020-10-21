@@ -7,7 +7,11 @@
 </table>
 </center>
 
-# Fernando dos Santos.md
+<div align="center">
+  <img src="https://assets.website-files.com/5e51b3b0337309d672efd94c/5e51cc5933d368febc351897_footer-img.svg">
+</div>
+
+# Fernando dos Santos
 
 ## Hi There! 👋
    I'm a Software Developer with a passion for finding simple solutions to interesting problems. :computer:
