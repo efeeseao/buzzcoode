@@ -1,12 +1,3 @@
-<center>
-<table>
-  <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codder404&layout=compact" /></td>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=codder404&theme=tokyonight" /></td>
-  </tr>   
-</table>
-</center>
-
 <div align="center">
   <img src="https://assets.website-files.com/5e51b3b0337309d672efd94c/5e51cc5933d368febc351897_footer-img.svg">
 </div>
@@ -14,9 +5,9 @@
 # Fernando dos Santos
 
 ## Hi There! 👋
-   I'm a Software Developer with a passion for finding simple solutions to interesting problems. :computer:
+   Titles don't mean anything. That's why I removed mine. I do what I love. Have a vision and everything is possible.. :computer:
 
- :rocket:  &nbsp; I'm working as Front-End at **Mochi**
+ :rocket:  &nbsp; I'm working at **Mochi**
  <br/> :purple_heart: &nbsp; Seeking to collaborate with Front-end projects using React.js
  <br/> :blush: &nbsp; I'm learning every day...
  <br/> :computer: &nbsp; A few technologies I've been working with recently: JavaScript (ES6), HTLM & CSS, TypeScript, Next/React, Gatsby and Node Js.
