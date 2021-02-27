@@ -1,22 +1,34 @@
-<div align="center">
-  <img src="https://assets.website-files.com/5e51b3b0337309d672efd94c/5e51cc5933d368febc351897_footer-img.svg">
-</div>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador ao lado um copo de café">
 
-# Fernando dos Santos
+<p align="left"> 
+  Hi there, my name is Fernando dos Santos, i'm <strong>Front-End</strong> developer. I'm open to freelas/work, if you want to hire my job get in touch.
+</p>
 
-## Hi There! 👋
-   Titles don't mean anything. That's why I removed mine. I do what I love. Have a vision and everything is possible.. :computer:
+<p align="left">
+  :rocket:  &nbsp; I'm working at **Creative Labs**
+</p>
 
- :rocket:  &nbsp; I'm working at **Mochi**
- <br/> :purple_heart: &nbsp; Seeking to collaborate with Front-end projects using React.js
- <br/> :blush: &nbsp; I'm learning every day...
- <br/> :computer: &nbsp; A few technologies I've been working with recently: JavaScript (ES6), HTLM & CSS, TypeScript, Next/React, Gatsby and Node Js.
- <br/> 💬  &nbsp; About: I like, games, Netflix series, Play Guitar, listen music and read books.
- <br/> :email: &nbsp; Get in touch: [![Linkedin Badge](https://img.shields.io/badge/-Fernando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandosantosc/)](https://www.linkedin.com/in/fernandosantosc/) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-nando4803@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nando4803@gmail.com)](mailto:nando4803@gmail.com)
-| 
-[![Twitter Badge](https://img.shields.io/badge/-Fernando-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/codder404)](https://twitter.com/codder404)
-| 
-[![Blog Badge](https://img.shields.io/badge/Blog-fernandosantos.com-blue)](https://fernandodossantos.netlify.app/)
+<p align="left">
+  :purple_heart: &nbsp; Seeking to collaborate with Front-end projects using JavaScript Ecossystem <strong>ReactJs, NextJs, NodeJs, GraphQL</strong>
+</p>
 
+<p align="left">
+  :blush: &nbsp; I'm learning every day...
+</p>
+<p align="left">
+  :computer: &nbsp; A few technologies I've been working with recently: JavaScript (ES6), HTLM5 & CSS3, TypeScript, Next/React, Gatsby and NodeJs.
+</p>
+<p align="left">
+  💬  &nbsp; About: I like, games, Netflix series, Play Guitar, listen music and read books.
+</p>
+
+<p align="left">
+  <a href="https://www.instagram.com/iuricode/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/coder404/"/></a>
+  
+  <a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandosantosc" /></a>
+
+  <a href="https://www.facebook.com/exudojazz/" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/codder404/"/></a>
+</p>  
