@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador ao lado um copo de café">
 
 <p align="left"> 
-  Hi there, my name is Fernando dos Santos, i'm <strong>Front-End</strong> developer. I'm open to freelas/work, if you want to hire my job get in touch.
+  Hi there, my name is Fernando dos Santos, i'm a <strong>Software</strong> Developer.
 </p>
 
 <p align="left">
