@@ -1,34 +1,39 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador ao lado um copo de café">
+### Hi, I'm Fernando dos Santos 👋
+---
 
-<p align="left"> 
-  Hi there, my name is Fernando dos Santos, i'm a <strong>Software</strong> Developer.
-</p>
+#### I'm a Front-end Developer based in Luanda, Angola.
 
-<p align="left">
-  :rocket:  &nbsp; I'm working at **Creative Labs**
-</p>
+- 🏢 I'm currently working full-time with awesome peeps at **ITGest**
+- ⚙️ I use daily: `.js`, `.ts`, `.css`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.sql`
+- 🌍 I support and volunteer with: **Code Nation, Built By Girls, AllStar Code**
+- 💅 Active community member of: **Rocketseat**
+- 🌱 Learning more about and studying: **Open Source, React, Next, CS Algorithms**
+- 💬 Ping me about: **front-end development**, **social media**, **diversity & inclusion**, **money**, **Stranger Thing**
+- 📫 Reach me asap: <a href="https://twitter.com/buzzcode42/">Twitter</a> or nando4803@gmail.com
+- 💜 Interests: marketing, cryptocurrency enthusiast, foodie, digital nomadism
+- 😄 Passionate about accessibility and committed to a web that works for everyone
 
-<p align="left">
-  :purple_heart: &nbsp; Seeking to collaborate with Front-end projects using JavaScript Ecossystem <strong>ReactJs, NextJs, NodeJs, GraphQL</strong>
-</p>
+#### Find me around the web 🌎:
+- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/buzzcode42/">LinkedIn</a>
+- 🎧 Listening to all my favorite jams on <a href="https://open.spotify.com/user/21r47siauw3dl4bkfb2bqycdi">Spotify</a>
+- 🌐 Updating my personal website with examples of my work on <a href="https://fernandodossantos.netlify.app/">Fernando dos Santos</a>
+- 🐦 Tweeting about memes and sharing tech tweets on <a href="https://twitter.com/buzzcode42/">Twitter</a>
 
-<p align="left">
-  :blush: &nbsp; I'm learning every day...
-</p>
-<p align="left">
-  :computer: &nbsp; A few technologies I've been working with recently: JavaScript (ES6), HTLM5 & CSS3, TypeScript, Next/React, Gatsby and NodeJs.
-</p>
-<p align="left">
-  💬  &nbsp; About: I like, games, Netflix series, Play Guitar, listen music and read books.
-</p>
 
-<p align="left">
-  <a href="https://www.instagram.com/iuricode/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/coder404/"/></a>
-  
-  <a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandosantosc" /></a>
+<!--
+**FernandoDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-  <a href="https://www.facebook.com/exudojazz/" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/codder404/"/></a>
-</p>  
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=buzzcode42&show_icons=true)
+
+-->
