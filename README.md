@@ -9,7 +9,7 @@
 - 💅 Active community member of: **Rocketseat**
 - 🌱 Learning more about and studying: **Open Source, React, Next, CS Algorithms**
 - 💬 Ping me about: **front-end development**, **social media**, **diversity & inclusion**, **money**, **Stranger Thing**
-- 📫 Reach me asap: <a href="https://twitter.com/buzzcode42/">Twitter</a> or nando4803@gmail.com
+- 📫 Reach me asap: <a href="https://twitter.com/buzzcode42/">Twitter</a> or hi.fernandosantos@gmail.com
 - 💜 Interests: marketing, cryptocurrency enthusiast, foodie, digital nomadism
 - 😄 Passionate about accessibility and committed to a web that works for everyone
 
