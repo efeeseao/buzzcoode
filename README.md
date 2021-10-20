@@ -3,7 +3,7 @@
 
 #### I'm a Front-end Developer based in Luanda, Angola.
 
-- 🏢 I'm currently working full-time with awesome peeps at **ITGest**
+- 🏢 I'm currently working full-time with awesome peeps at **Creative Labs**
 - ⚙️ I use daily: `.js`, `.ts`, `.css`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.sql`
 - 🌍 I support and volunteer with: **Code Nation, Built By Girls, AllStar Code**
 - 💅 Active community member of: **Rocketseat**
