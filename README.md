@@ -8,7 +8,7 @@
 - 🌍 I support and volunteer with: **Code Nation, Built By Girls, AllStar Code**
 - 💅 Active community member of: **Rocketseat**
 - 🌱 Learning more about and studying: **Open Source, React, Next, CS Algorithms**
-- 💬 Ping me about: **front-end development**, **social media**, **diversity & inclusion**, **money**, **Stranger Thing**
+- 💬 Ping me about: **front-end development**, **social media**, **diversity & inclusion**, **money**, **Stranger Things**
 - 📫 Reach me asap: <a href="https://twitter.com/buzzcode42/">Twitter</a> or hi.fernandosantos@gmail.com
 - 💜 Interests: marketing, cryptocurrency enthusiast, foodie, digital nomadism
 - 😄 Passionate about accessibility and committed to a web that works for everyone
