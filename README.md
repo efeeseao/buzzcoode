@@ -1,13 +1,13 @@
 ### Hi, I'm Fernando dos Santos 👋
 ---
 
-#### I'm a Front-end Developer based in Luanda, Angola.
+#### I'm a Software Developer based in Luanda, Angola.
 
 - 🏢 I'm currently working full-time with awesome peeps at <a href="https://ilovecreativelabs.com">**Creative Labs**<a/>
 - ⚙️ I use daily: `.js`, `.ts`, `.css`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.sql`
 - 🌍 I support and volunteer with: **Code Nation, Built By Girls, AllStar Code**
 - 💅 Active community member of: **Rocketseat**
-- 🌱 Learning more about and studying: **Open Source, React, Next, CS Algorithms**
+- 🌱 Learning more about and studying: **Open Source, React.Js, Next.Js, Golang, Elixr, TDD**
 - 💬 Ping me about: **front-end development**, **social media**, **diversity & inclusion**, **money**, **Stranger Things**
 - 📫 Reach me asap: <a href="https://twitter.com/buzzcode42/">Twitter</a> or hi.fernandosantos@gmail.com
 - 💜 Interests: marketing, cryptocurrency enthusiast, foodie, digital nomadism
