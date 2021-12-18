@@ -7,7 +7,7 @@
 - ⚙️ I use daily: `.js`, `.ts`, `.css`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.sql`
 - 🌍 I support and volunteer with: **Code Nation, Built By Girls, AllStar Code**
 - 💅 Active community member of: **Rocketseat**
-- 🌱 Learning more about and studying: **Open Source, React.Js, Next.Js, Golang, Elixr, TDD**
+- 🌱 Learning more about and studying: **Open Source, React.Js, Next.Js, Golang, Elixr, Tests**
 - 💬 Ping me about: **front-end development**, **social media**, **diversity & inclusion**, **money**, **Stranger Things**
 - 📫 Reach me asap: <a href="https://twitter.com/buzzcode42/">Twitter</a> or hi.fernandosantos@gmail.com
 - 💜 Interests: marketing, cryptocurrency enthusiast, foodie, digital nomadism
