@@ -4,7 +4,7 @@
 
 A young Frontend developer who wants to share his knowledge. Always looking to evolve and improve in all aspects.
 
-- 🏢 I'm currently working at **[Boost Studio](https://www.booststudio.ao/).**
+- 🏢 I'm currently working at **[Creative Labs](https://www.creativelabs.ao/).**
 - ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`
 - 🌍 I'm mostly active within the **FrontEnd & UI/UX Community**
 - 🌱 Learning all about **Golang**
